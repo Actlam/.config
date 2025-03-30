@@ -48,3 +48,6 @@ fish_variables
 
 # iTerm2
 *.iterm2
+
+# zsh
+.zsh_history
