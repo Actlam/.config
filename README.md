@@ -1,0 +1,1 @@
+https://zenn.dev/monicle/articles/59ff479ae51c66#wezterm
