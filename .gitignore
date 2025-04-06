@@ -50,4 +50,4 @@ fish_variables
 *.iterm2
 
 # zsh
-.zsh_history
+/zsh/.zsh_history
